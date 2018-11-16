@@ -1,0 +1,51 @@
+JAVASCRIPT TYPES
+------------------
+    1. Number
+    2. String
+    3. Boolean
+    4. Undefined
+    5. Null
+    6. Symbol (new in ECMAScript 6)
+    7. Object
+
+JAVASCRIPT COMPARISONS
+------------------
+    --
+    ==
+    ===
+    >=
+    <=
+    >
+    <
+
+JAVASCRIPT VARIABLES
+------------------
+    var
+    let (new in ECMAScript 6)
+    const (new in ECMAScript 6)
+
+JAVASCRIPT CONDITIONALS 
+------------------
+if
+else
+else if
+ternary operator    ? :
+switch
+
+JAVASCRIPT LOGICAL OPERATORS 
+------------------
+&& (AND)
+|| (OR)
+! (NOT)
+
+------------------
+var first = prompt("User name")
+var second = prompt("enter second number")
+alert("Hi there!!")
+var first = prompt("first");
+var second = prompt("second");
+var sum = Number(first) + Number(second);
+alert(sum);
+------------------
+------------------
+------------------
