@@ -38,7 +38,24 @@ JAVASCRIPT LOGICAL OPERATORS
 || (OR)
 ! (NOT)
 
+
+JAVASCRIPT FUNCTIONS 
 ------------------
+var a = function name() {}
+function name() {}
+return
+
+
+
+
+
+
+
+
+
+
+
+
 var first = prompt("User name")
 var second = prompt("enter second number")
 alert("Hi there!!")
