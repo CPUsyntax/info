@@ -50,6 +50,7 @@ return
 JAVASCRIPT DATA STRUCTURES
 ------------------
 Array
+Object
 
 JAVASCRIPT LOOPING
 ------------------
