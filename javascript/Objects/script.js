@@ -35,8 +35,10 @@ console.log(user.Spells[1]);
 console.log(list[0].password);
 
 
-var emptyObj = {};
-var nullObj = null;
+var emptyObj = {}; // empty object
+var user2 = [];
+
+var nullObj = null; // nothing in this object
 
 
 
