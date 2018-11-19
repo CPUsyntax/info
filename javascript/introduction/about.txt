@@ -59,6 +59,19 @@ while
 do
 forEach (new in ECMAScript 5)
 
+JAVASCRIPT KEYWORDS
+------------------
+break
+case
+catch
+class
+const
+continue
+debugger
+default
+delete
+do
+else
 
 
 
